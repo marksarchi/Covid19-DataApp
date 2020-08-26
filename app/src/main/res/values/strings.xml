@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Covid19</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_global">Global</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_country">Country</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- KBT -->
+    <string name="total_recovered">Recoveries</string>
+    <string name="total_cases">Cases</string>
+    <string name="total_deaths">Deaths</string>
+    <string name="total_critical">Critical</string>
+    <string name="case_per_million">per million</string>
+    <string name="deaths_per_million">per million</string>
+    <string name="digits_placeholder">-</string>
+
+    <string name="digits_placeholder_removed">420</string>
+
+    <string name="global">Global</string>
+    <string name="countries">Countries</string>
+    <string name="covid_19">Covid-19</string>
+    <string name="settings">Settings</string>
+
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="cases">Cases</string>
+
+    <string name="MyBirthDayEasterEgg">Thursday 19, November</string>
+
+    <string name="error_dialog_title">Error!</string>
+    <string name="error_dialog_message">Check your internet connection.</string>
+    <string name="ok">OK</string>
+
+    <string name="active_cases">Active Cases</string>
+    <string name="cases_today">Cases Today</string>
+    <string name="separator">:</string>
+    <string name="deaths_today">Deaths Today</string>
+    <string name="critical_cases">Critical Cases</string>
+    <string name="country_placeholder">Country</string>
+    <string name="country">Country</string>
+    <string name="News">News</string>
+
+</resources>
